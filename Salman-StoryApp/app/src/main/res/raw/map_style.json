@@ -1,0 +1,34 @@
+[
+  {
+    "elementType": "labels",
+    "stylers": [
+      {
+        "saturation": 40
+      },
+      {
+        "visibility": "simplified"
+      }
+    ]
+  },
+  {
+    "featureType": "landscape",
+    "elementType": "labels.icon",
+    "stylers": [
+      {
+        "visibility": "simplified"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#e0cb10"
+      },
+      {
+        "visibility": "simplified"
+      }
+    ]
+  }
+]

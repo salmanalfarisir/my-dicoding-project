@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to know how cool users and mentors career experience ? You can also share your experiences! Come join now!</string>
+    <string name="title_welcome_page">Welcome to MyStoryApp!</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Are you ready to share your experience?</string>
+    <string name="name">Nama</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="Required">Required</string>
+    <string name="title">Name</string>
+    <string name="description">description</string>
+    <string name="error_loading_story">Error loading story</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="message">Message</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Please enter the image file and description first.</string>
+    <string name="error">Error</string>
+    <string name="unknown_error">unknown error</string>
+    <string name="lanjut">Continue</string>
+    <string name="yeah">Yeah!</string>
+    <string name="success">Success</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="ok">OK!</string>
+    <string name="no_media_selected">No media selected</string>
+    <string name="image_upload_successfully">Image upload successfully</string>
+    <string name="failed_to_upload_image">Failed to upload image</string>
+    <string name="permission_request_granted">Permission request granted</string>
+    <string name="permission_request_denied">permission request denied</string>
+    <string name="email_is_not_valid">Email is not valid</string>
+    <string name="password_cannot_be_less_than_8_character">Password cannot be less than 8 character</string>
+    <string name="error_fetching_stories">Error fetching stories</string>
+    <string name="language">Language</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="add_story">New Story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="retry">Try again</string>
+    <string name="add_location">Add your current location?</string>
+</resources>
